@@ -14,6 +14,8 @@ Shortcut : Ctrl + Shift + Y
 
 Extracts Links Which Match Following Words from a Webpage
 
+Output in Table Format
+
 Limitation - Does Not Work On All WebPages.
 
 
