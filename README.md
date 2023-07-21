@@ -14,6 +14,8 @@ Shortcut : Ctrl + Shift + F8
 
 Extracts Links Which Match Following Words from a Webpage
 
+Limitation - Does Not Work On All WebPages.
+
 
 # Words to Be Matched
 
