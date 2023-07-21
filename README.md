@@ -1,4 +1,4 @@
-# MyLinkExtractor
+# My Link Extractor
 
 My Link Extractor - Fork from Link Gopher (https://github.com/az0/linkgopher)
 
