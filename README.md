@@ -10,7 +10,7 @@ Modified According to My Needs
 
 Also Matches Link Text, Not Just Href
 
-Shortcut : Ctrl + Shift + F8
+Shortcut : Ctrl + Shift + Y
 
 Extracts Links Which Match Following Words from a Webpage
 
