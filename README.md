@@ -1,6 +1,10 @@
 # MyLinkExtractor
 
-Link Extractor - Fork
+My Link Extractor - Fork from Link Gopher (https://github.com/az0/linkgopher)
+
+My Link Extractor - Fork from Link Extractor (https://github.com/kainem/linkgopher)
+
+Link Gopher Home Page - https://sites.google.com/site/linkgopher/Home
 
 Modified According to My Needs
 
